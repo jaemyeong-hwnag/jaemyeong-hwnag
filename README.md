@@ -45,9 +45,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-#### AI & Other Languages
+#### AI & AI Tool
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude-Task-Master](https://img.shields.io/badge/ClaudeTaskMaster-000000?style=for-the-badge&logoColor=white)
 
 ### GitHub 통계
 
