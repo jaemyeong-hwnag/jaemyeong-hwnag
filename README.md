@@ -52,7 +52,7 @@
 ![Claude-Task-Master](https://img.shields.io/badge/ClaudeTaskMaster-000000?style=for-the-badge&logoColor=white)
 
 ### GitHub 통계
-![Top Langs](https://github-readme-stats-beta-flame-32.vercel.app/api/top-langs-branch?user=jaemyeong-hwnag&branch=develop&bg_color=141321&title_color=fe428e&text_color=a9fef7&bar_color=fe428e&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-beta-flame-32.vercel.app/api/top-langs-branch?user=jaemyeong-hwnag&branch=develop&bg_color=141321&title_color=fe428e&text_color=a9fef7&bar_color=fe428e&layout=nologo&hide=GCCMachineDescription)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaemyeong-hwnag&show_icons=true&theme=radical)
 
 
