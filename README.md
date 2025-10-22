@@ -8,7 +8,7 @@
 > 운영 과정에서 발생하는 이슈도 집요하게 분석하고 해결합니다.  
 
 ### 블로그
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=banana-wuyu)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=banana-wuyu)](https://velog.io/@banana-wuyu)
 
 ### 기술 스택
 
