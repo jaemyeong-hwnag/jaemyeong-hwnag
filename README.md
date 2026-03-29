@@ -51,7 +51,7 @@
 #### AI & AI Tool
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude-Task-Master](https://img.shields.io/badge/ClaudeTaskMaster-000000?style=for-the-badge&logoColor=white)
+![Claude-Code](https://img.shields.io/badge/ClaudeCode-000000?style=for-the-badge&logoColor=white)
 
 ### GitHub 통계
 ![Top Langs](https://github-readme-stats-beta-flame-32.vercel.app/api/top-langs-branch?user=jaemyeong-hwnag&branch=develop&bg_color=141321&title_color=fe428e&text_color=a9fef7&bar_color=fe428e&layout=nologo&hide=GCCMachineDescription)
